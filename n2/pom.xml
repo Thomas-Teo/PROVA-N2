@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.prova</groupId>
 	<artifactId>n2</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>100.100.100-SNAPSHOT</version>
 	<name>n2</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
