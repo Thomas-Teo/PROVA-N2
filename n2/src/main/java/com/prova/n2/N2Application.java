@@ -9,5 +9,5 @@ public class N2Application {
 	public static void main(String[] args) {
 		SpringApplication.run(N2Application.class, args);
 	}
-
+//so da erro sa merda
 }
